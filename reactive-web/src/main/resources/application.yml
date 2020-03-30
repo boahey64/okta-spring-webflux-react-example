@@ -1,7 +1,7 @@
 oidc:
   issuer-uri: https://dev-133320.okta.com/oauth2/default
-  client-id: 0oamyejrp8Ol5Zplu356
-  client-secret: 5LrLUufsWAMlJuWYz-DxkX22l863wrLhcWfjA_8z
+  client-id: 0oa52dpdqvDdqlKbn4x6
+  client-secret: jyBrIujn7vuDdQUofvgRHvf0da_wZfRcqlvMMIh7
 
 spring:
   security:
