@@ -1,5 +1,5 @@
 oidc:
-  issuer-uri: https://dev-133320.okta.com/oauth2/default
+  issuer-uri: https://boahey-dev-443565.okta.com/oauth2/default
   client-id: 0oa52dpdqvDdqlKbn4x6
   client-secret: jyBrIujn7vuDdQUofvgRHvf0da_wZfRcqlvMMIh7
 
